@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="275e5e7c-7782-4811-a38c-c598455df466" name="Changes" comment="Added auto generated .idea files and auto generated main.py from PyCharm">
+    <list default="true" id="275e5e7c-7782-4811-a38c-c598455df466" name="Changes" comment="Added image for README.md file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +44,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/plbra/source/PycharmProjects/digital-clock.old/.idea/copyright/Apache_2_0.xml",
     "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\plbra\source\PycharmProjects\digital-clock\images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="digital-clock" />
@@ -100,7 +107,31 @@
       <option name="project" value="LOCAL" />
       <updated>1707321085157</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added License for the .idea file">
+      <option name="closed" value="true" />
+      <created>1707321622771</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707321622771</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated main.py">
+      <option name="closed" value="true" />
+      <created>1707321674810</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707321674810</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added image for README.md file">
+      <option name="closed" value="true" />
+      <created>1707321941485</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707321941485</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,17 +147,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added auto generated .idea files and auto generated main.py from PyCharm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added auto generated .idea files and auto generated main.py from PyCharm" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Added License for the .idea file" />
+    <MESSAGE value="Updated main.py" />
+    <MESSAGE value="Added image for README.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added image for README.md file" />
   </component>
 </project>

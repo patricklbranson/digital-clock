@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="275e5e7c-7782-4811-a38c-c598455df466" name="Changes" comment="Updated README.md and added .vscode/settings.json">
+    <list default="true" id="275e5e7c-7782-4811-a38c-c598455df466" name="Changes" comment="Updated README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707325312096</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated README.md">
+      <option name="closed" value="true" />
+      <created>1707325690682</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707325690682</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,8 +178,8 @@
     <MESSAGE value="Added License for the .idea file" />
     <MESSAGE value="Updated main.py" />
     <MESSAGE value="Added image for README.md file" />
-    <MESSAGE value="Updated README.md" />
     <MESSAGE value="Updated README.md and added .vscode/settings.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md and added .vscode/settings.json" />
+    <MESSAGE value="Updated README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md" />
   </component>
 </project>

@@ -16,7 +16,7 @@ from time import strftime
 from tkinter import Label, Tk
 
 
-def main():
+def main() -> None:
     """
     Runs the Clock GUI and calculations
 
